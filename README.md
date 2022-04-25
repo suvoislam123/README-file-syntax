@@ -38,7 +38,6 @@ Preview:
 ```js
 console.log('Hello Shuvo')
 ```
-
 ### Chapter2
 ### Chapter3
 
